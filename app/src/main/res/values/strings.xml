@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MicroCredit</string>
+    <string name="karib">Karibu !</string>
+    <string name="taarifa">Tafadhari jaza taarifa zako kwaajili ya akaunti yako mpya</string>
+
+<!--    login strings-->
+    <string name="button1_login">Jina Kamili</string>
+    <string name="button2_login">namba ya nida</string>
+
+</resources>
