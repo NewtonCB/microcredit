@@ -1,10 +1,25 @@
 <resources>
     <string name="app_name">MicroCredit</string>
-    <string name="karib">Karibu !</string>
-    <string name="taarifa">Tafadhari jaza taarifa zako kwaajili ya akaunti yako mpya</string>
+    <string name="welcome">Karibu !</string>
+    <string name="info">Tafadhari jaza taarifa zako \n kwaajili ya akaunti yako mpya</string>
 
-<!--    login strings-->
-    <string name="button1_login">Jina Kamili</string>
-    <string name="button2_login">namba ya nida</string>
+    <!--    login strings-->
+    <string name="hint1">Jina Kamili</string>
+    <string name="hint2">Namba ya NIDA/Leseni ya gari</string>
+    <string name="hint3">Jina la Kampuni/Ofisi</string>
+    <string name="hint4">Kitambulisho cha kazini</string>
+    <string name="hint5">Jina Kamili</string>
+    <string name="hint6">Kitengo chako kwenye kampuni</string>
+    <string name="button">Jisajili na namba ya simu</string>
+    <string name="textview">je una akaunti tayari?-</string>
+    <string name="help1">muhimu</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
 
 </resources>
